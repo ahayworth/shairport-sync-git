@@ -1,0 +1,4 @@
+pkg/
+src/
+shairport-sync-git*.pkg.tar.zst
+shairport-sync/
